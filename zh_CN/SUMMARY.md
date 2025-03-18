@@ -81,6 +81,7 @@
   * [元数据](guides/knowledge-base/metadata.md)
   * [在应用内集成知识库](guides/knowledge-base/integrate-knowledge-within-application.md)
   * [召回测试/引用归属](guides/knowledge-base/retrieval-test-and-citation.md)
+  * [知识库请求频率限制](guides/knowledge-base/knowledge-request-rate-limit.md)
   * [连接外部知识库](guides/knowledge-base/connect-external-knowledge-base.md)
   * [外部知识库 API](guides/knowledge-base/external-knowledge-api-documentation.md)
 * [工具](guides/tools/README.md)
@@ -131,6 +132,7 @@
   * [团队成员管理](guides/management/team-members-management.md)
   * [个人账号管理](guides/management/personal-account-management.md)
   * [订阅管理](guides/management/subscription-management.md)
+  * [版本管理](guides/management/version-control.md)
 
 ## 动手实验室 <a href="#workshop" id="workshop"></a>
 
@@ -218,7 +220,7 @@
   * [构建一个 Notion AI 助手](learn-more/use-cases/build-an-notion-ai-assistant.md)
   * [如何在几分钟内创建一个带有业务数据的官网 AI 智能客服](learn-more/use-cases/create-an-ai-chatbot-with-business-data-in-minutes.md)
   * [使用全套开源工具构建 LLM 应用实战：在 Dify 调用 Baichuan 开源模型能力](learn-more/use-cases/practical-implementation-of-building-llm-applications-using-a-full-set-of-open-source-tools.md)
-  * [手摸手教你把 Dify 接入微信生态](learn-more/use-cases/dify-on-wechat.md)
+  * [手把手教你把 Dify 接入微信生态](learn-more/use-cases/dify-on-wechat.md)
   * [使用 Dify 和 Twilio 构建 WhatsApp 机器人](learn-more/use-cases/dify-on-whatsapp.md)
   * [将 Dify 应用与钉钉机器人集成](learn-more/use-cases/dify-on-dingtalk.md)
   * [使用 Dify 和 Azure Bot Framework 构建 Microsoft Teams 机器人](learn-more/use-cases/dify-on-teams.md)
@@ -227,6 +229,7 @@
   * [如何连接 AWS Bedrock 知识库？](learn-more/use-cases/how-to-connect-aws-bedrock.md)
   * [构建 Dify 应用定时任务助手](learn-more/use-cases/dify-schedule.md)
   * [如何在 Dify 内体验大模型“竞技场”？以 DeepSeek R1 VS o1 为例](learn-more/use-cases/dify-model-arena.md)
+  * [在 Dify 云端构建 AI Thesis Slack Bot](learn-more/use-cases/building-an-ai-thesis-slack-bot.md)
 * [扩展阅读](learn-more/extended-reading/README.md)
   * [什么是 LLMOps？](learn-more/extended-reading/what-is-llmops.md)
   * [什么是数组变量？](learn-more/extended-reading/what-is-array-variable.md)

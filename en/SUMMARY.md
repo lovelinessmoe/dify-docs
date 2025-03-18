@@ -81,6 +81,7 @@
   * [Metadata](guides/knowledge-base/metadata.md)
   * [Integrate Knowledge Base within Application](guides/knowledge-base/integrate-knowledge-within-application.md)
   * [Retrieval Test / Citation and Attributions](guides/knowledge-base/retrieval-test-and-citation.md)
+  * [Knowledge Request Rate Limit](guides/knowledge-base/knowledge-request-rate-limit.md)
   * [Connect to an External Knowledge Base](guides/knowledge-base/connect-external-knowledge.md)
   * [External Knowledge API](guides/knowledge-base/external-knowledge-api-documentation.md)
 * [Tools](guides/tools/README.md)
@@ -133,7 +134,7 @@
   * [Personal Account Management](guides/management/personal-account-management.md)
   * [Subscription Management](guides/management/subscription-management.md)
   * [Version Control](guides/management/version-control.md)
-  
+
 ## Workshop
 
 * [Basic](workshop/basic/README.md)
@@ -221,6 +222,7 @@
   * [Integrating Dify Chatbot into Your Wix Website](learn-more/use-cases/how-to-integrate-dify-chatbot-to-your-wix-website.md)
   * [How to connect with AWS Bedrock Knowledge Base？](learn-more/use-cases/how-to-connect-aws-bedrock.md)
   * [Building the Dify Scheduler](learn-more/use-cases/dify-schedule.md)
+  * [Building an AI Thesis Slack Bot on Dify](learn-more/use-cases/building-an-ai-thesis-slack-bot.md)
 * [Extended Reading](learn-more/extended-reading/README.md)
   * [What is LLMOps?](learn-more/extended-reading/what-is-llmops.md)
   * [Retrieval-Augmented Generation (RAG)](learn-more/extended-reading/retrieval-augment/README.md)

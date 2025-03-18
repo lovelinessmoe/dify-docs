@@ -81,6 +81,7 @@
   * [APIによるデータセットの維持](guides/knowledge-base/maintain-dataset-via-api.md)
   * [メタデータ](guides/knowledge-base/metadata.md)
   * [外部データツール](guides/knowledge-base/external-data-tool.md)
+  * [ナレッジベースの要求頻度制限](guides/knowledge-base/knowledge-request-rate-limit.md)
   * [外部ナレッジベースとの接続](guides/knowledge-base/connect-external-knowledge-base.md)
   * [外部ナレッジベースAPI](guides/knowledge-base/external-knowledge-api-documentation.md)
 * [ツール](guides/tools/README.md)
@@ -131,6 +132,7 @@
   * [チームメンバーの管理](guides/management/team-members-management.md)
   * [個人アカウントの管理](guides/management/personal-account-management.md)
   * [サブスクリプション管理](guides/management/subscription-management.md)
+  * [バージョン管理](guides/management/version-control.md)
 
 ## ハンドオン工房 <a href="#workshop" id="workshop"></a>
 
@@ -220,6 +222,7 @@
   * [AWS Bedrockのナレッジベースに統合する方法](learn-more/use-cases/how-to-connect-aws-bedrock.md)
   * [Difyで大規模言語モデルの「競技場」を体験する方法：DeepSeek R1 VS o1 を例に](learn-more/use-cases/dify-model-arena.md)
   * [Difyスケジューラーの構築](learn-more/use-cases/dify-schedule.md)
+  * [DifyクラウドでAI Thesis Slack Botを構築](learn-more/use-cases/building-an-ai-thesis-slack-bot.md)
 * [さらに読む](learn-more/extended-reading/README.md)
   * [LLMOpsとは何ですか？](learn-more/extended-reading/what-is-llmops.md)
   * [配列変数とは何ですか？](learn-more/extended-reading/what-is-array-variable.md)
